@@ -1,0 +1,26 @@
+baseURL: "https://fiery.gay/"
+languageCode: "en-us"
+title: "Fiery's website"
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    title: "FieryFlames" # optional default will be site title
+    subtitle: "He/him"
+    imageUrl: "https://avatars.githubusercontent.com/u/30497388"
+    imageTitle: "Octopus emoji combined with thinking emoji"
+    imageWidth: 300
+    imageHeight: 300
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/FieryFlames"
+    - name: "discord"
+      url: "https://discord.gg/tjDZFnNDBT"
+    - name: "matrix"
+      url: "https://matrix.to/#/@fieryflames:matrix.org"
+    - name: "twitter"
+      url: "https://twitter.com/Fiery78980"
+    - name: "telegram"
+      url: "https://t.me/FieryFlames"
