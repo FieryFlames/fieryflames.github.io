@@ -1,6 +1,6 @@
 baseURL: "https://fiery.gay/"
 languageCode: "en-us"
-title: "FieryFlames' website"
+title: "FieryFlames"
 theme: "PaperMod"
 
 params:
