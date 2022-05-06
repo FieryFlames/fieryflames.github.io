@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
   profileMode:
     enabled: true
-    title: "FieryFlames" # optional default will be site title
+    title: "FieryFlames"
     subtitle: "He/him"
     imageUrl: "https://avatars.githubusercontent.com/u/30497388"
     imageTitle: "Octopus emoji combined with thinking emoji"
